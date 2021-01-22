@@ -35,7 +35,6 @@ function budgetCalculator(watch, phone, laptop){
 
 
 
-
 //hotelCost Calculator
 var cost = 0;
 function hotelCost(days){
@@ -61,6 +60,8 @@ function hotelCost(days){
 
     return cost;
 }
+
+
 
 
 
